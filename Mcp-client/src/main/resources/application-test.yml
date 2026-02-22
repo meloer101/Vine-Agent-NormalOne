@@ -1,0 +1,10 @@
+server:
+  port: 9090
+
+spring:
+  application:
+    name: vine-agent-client
+
+logging:
+  level:
+    root: INFO

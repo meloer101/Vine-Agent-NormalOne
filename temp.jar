@@ -1,0 +1,6 @@
+{
+  "errors" : [ {
+    "status" : 404,
+    "message" : "Could not find resource; Path: 'milestone:org/springframework/ai/spring-ai-openai/1.0.0/spring-ai-openai-1.0.0.jar'"
+  } ]
+}
